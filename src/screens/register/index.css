@@ -1,0 +1,7 @@
+.formCreation{
+  display: flex;
+  height: 100%;
+  padding: 50px;
+  align-items: center;
+  justify-content: center;
+}
